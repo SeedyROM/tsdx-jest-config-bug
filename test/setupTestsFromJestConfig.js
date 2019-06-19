@@ -1,0 +1,1 @@
+throw "setupTestsFromJestConfig was loaded";
